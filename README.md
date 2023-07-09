@@ -1,5 +1,5 @@
 # ConcurrentHTTP
-A GD Mod that ports Axmol HttpClient to GD (cocos2dx v2)
+A GD Mod that ports Axmol HttpClient to GD (cocos2dx v2.2.3)
 
 To Install, use the dll from Releases, place it in the corresponding loader's folder, such as extensions for MegaHack users.
 
