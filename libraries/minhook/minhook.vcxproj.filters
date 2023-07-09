@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ashton\Documents\GD Mods\gd-mod-example\libraries\minhook\src\buffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ashton\Documents\GD Mods\gd-mod-example\libraries\minhook\src\hook.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ashton\Documents\GD Mods\gd-mod-example\libraries\minhook\src\trampoline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ashton\Documents\GD Mods\gd-mod-example\libraries\minhook\src\hde\hde64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ashton\Documents\GD Mods\gd-mod-example\libraries\minhook\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3B9E7197-5DA5-3E58-A2A7-0A170A9A073B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

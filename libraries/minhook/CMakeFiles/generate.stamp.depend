@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Ashton/Documents/GD Mods/gd-mod-example/libraries/minhook/CMakeLists.txt
+C:/Users/Ashton/Documents/GD Mods/gd-mod-example/libraries/minhook/cmake/minhook-config.cmake.in
