@@ -1,3 +1,6 @@
+# Unable to download all required files error
+Redownload the mod from releases as this issue has been fixed.
+
 # ConcurrentHTTP
 A GD Mod that ports Axmol HttpClient to GD (cocos2dx v2.2.3)
 
